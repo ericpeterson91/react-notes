@@ -34,9 +34,9 @@ const App = () => {
   }, [])
 
   useEffect(() => {
-    if(!!notes) {
+    
     localStorage.setItem('react-notes-app-data', JSON.stringify(notes));
-    }
+    
   }, [notes]);
 
   
