@@ -5,5 +5,5 @@
 
 ### Information
 
- - This project was created following Chris Blakely's Youtube Tutorial.
+ - This project was created following a YouTube tutorial from Chris Blakely. 
  - I am still working to get the localStorage.getItem functionality to work. I cannot get notes to persist after a page refresh. 
